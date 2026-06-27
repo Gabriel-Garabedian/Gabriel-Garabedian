@@ -1,4 +1,4 @@
-# Olá! Eu sou o [Gabriel da Silva Der Garabedian] 👋
+# Olá! Eu sou o Gabriel da Silva Der Garabedian 👋
 
 * 🎓 Graduando em Análise e Desenvolvimento de Sistemas (1° periódo - UNINASSAU)
 * 💻 Estudante de Java, SQL e Python (Back-end)
