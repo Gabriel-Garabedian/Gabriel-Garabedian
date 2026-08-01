@@ -15,6 +15,7 @@
 ## 👋 Olá, eu sou o Gabriel
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** — 1º período, UNINASSAU
+- ⚙️ Também estudando **DevOps** na FAP
 - 💻 Back-end: **Java**, **Spring Boot**, **SQL** e **Python**
 - 🌐 Front-end: **HTML**, **CSS** e **JavaScript**
 - 📍 Recife, PE — Brasil
@@ -29,6 +30,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="VS Code, Git, GitHub"/>
+</p>
+
+## ⚙️ DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,terraform,jenkins,aws&theme=dark" alt="Linux, Bash, Docker, Kubernetes, Ansible, Terraform, Jenkins, AWS"/>
 </p>
 
 ## 📊 GitHub Stats
