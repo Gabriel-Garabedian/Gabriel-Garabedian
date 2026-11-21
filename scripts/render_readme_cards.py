@@ -95,10 +95,8 @@ def render(days):
     body += text(43,259,'Estudante de ADS · Back-end & desenvolvimento web',19)
     body += text(43,293,'Java / Spring Boot / SQL / Python / JavaScript',14,'#66685d')
     body += '<circle cx="48" cy="339" r="4" fill="#244ce4" class="pulse"/>'+text(61,344,'RECIFE, BRASIL',11,cls='label')+text(400,344,'CONSTRUIR. ENTENDER. EVOLUIR.',11,cls='label')
-    body += '<circle cx="830" cy="180" r="115" fill="#eeede5"/>'
     for i,line in enumerate(portrait):
-        body += text(740,104+i*4.4,line,4.4,BLUE,'in',f'style="font-family:monospace;white-space:pre;--d:{i*.018}s" xml:space="preserve"')
-    body += '<g class="orbit"><circle cx="830" cy="160" r="128" fill="none" stroke="#c4c8d7" stroke-dasharray="3 9"/><circle cx="958" cy="160" r="5" fill="#e3b92e"/></g>'
+        body += text(665,45+i*3.2,line,3.6,'#54564d','in',f'style="font-family:monospace;white-space:pre;--d:{i*.018}s" xml:space="preserve"')
     card('hero','Gabriel Garabedian — estudante de ADS e desenvolvimento de software',378,body)
     body = text(40,42,'01 / CONSTÂNCIA',11,cls='label')+text(40,86,'Um pouco, todos os dias.',38,cls='serif')+text(958,80,f'{total:,} contribuições'.replace(',','.'),18,BLUE,extra='text-anchor="end"')
     start = date.fromisoformat(days[0]['date'])
@@ -154,4 +152,5 @@ def main():
 
 if __name__=='__main__':
     main()
+
 

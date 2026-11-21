@@ -19,3 +19,5 @@ O workflow existente snake.yml foi substituído pela geração dos cartões às 
 `python -m unittest discover -s scripts -p 'test_*.py'`
 
 A atualização real pelo GitHub Actions depende da publicação deste pacote. Nenhum token pessoal é necessário. README contém links e descrições alternativas para acesso ao conteúdo sem imagens.
+
+Retrato refinado: recorte em tons de cinza assistido por IA a partir do avatar público, seguido de conversão determinística em 144 colunas e 96 linhas ASCII. É uma interpretação visual da foto, sem copiar o rosto da referência enviada. Fundo e moldura circular removidos; impressão progressiva por linhas preservada.
